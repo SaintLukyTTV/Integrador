@@ -1,0 +1,23 @@
+:root {
+--color-primario: rgb(255, 255, 255);
+}
+
+body{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: 30px;
+    text-align: center;  
+    padding: 1.75rem 1.5rem;
+  }
+
+.text-BK{
+    font-family: 'Black Ops One', cursive;
+    font-size: 80px;
+    }
+
+    .text-sans{
+    font-family: 'Bebas Neue', sans-serif;
+    font-size: px;
+    text-align: center;  
+    padding: 1.75rem 1.5rem;
+    }
+

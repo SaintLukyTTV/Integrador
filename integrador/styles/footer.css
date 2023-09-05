@@ -1,0 +1,45 @@
+.footer{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 3rem;
+    gap: 1.5rem;
+    position: relative;
+}
+
+.links a {
+    text-decoration: none;
+    color: rgb(111, 0, 255);
+    font-family:'Black Ops One', cursive;
+  }
+
+  .links ul{
+    display: flex;
+    flex-direction: column;
+    left: 30px;
+    gap:1rem;
+  }
+
+  .copy {
+    text-decoration: none;
+    color: rgb(67, 56, 82);
+    font-size: 10px;
+    font-family:'Black Ops One', cursive;
+  }
+
+  .pies {
+      position: absolute;
+    bottom: 0px;
+      right: 0px;
+      z-index: -1;
+  }
+
+  .logoluky{
+    position: absolute;
+    width: 60px;
+    height: auto;
+    bottom: 10px;
+    left: 50px;
+  }
